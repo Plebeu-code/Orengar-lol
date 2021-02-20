@@ -29,11 +29,11 @@
 
 **You need to install at least [NodeJS 12.18.2](https://nodejs.org/), [React Native cli](https://www.npmjs.com/package/react-native-cli), [Yarn](https://classic.yarnpkg.com/en/docs/install/) and [Android Studio](https://developer.android.com/studio/), then in order to clone the project via HTTPS, run this command:**
 
-```git clone https://github.com/marcosvaldeni/Fintech-Design-with-React-Native.git```
+```git clone https://github.com/Plebeu-code/Orengar-lol.git```
 
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
-```git clone github.com/marcosvaldeni/Fintech-Design-with-React-Native.git```
+```git clone https://github.com/Plebeu-code/Orengar-lol.git```
 
 **Install dependências**
 
@@ -61,16 +61,16 @@ Para simulador IOS
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [Fintech Design with React Native](https://github.com/marcosvaldeni/Fintech-Design-with-React-Native/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/marcosvaldeni/Fintech-Design-with-React-Native/blob/master/CONTRIBUTING.md) to find out about the coding standards.
+Feel free to **file a new issue** with a respective title and description on the the [Fintech Design with React Native](https://github.com/Plebeu-code/Orengar-lol) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines]() to find out about the coding standards.
 
 # :tada: Contributing
 
-Check out the [contributing](https://github.com/marcosvaldeni/Fintech-Design-with-React-Native/blob/master/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
+Check out the [contributing]() page to see the best places to file issues, start discussions and begin contributing.
 
 # :closed_book: License
 
 Released in 2020.
-This project is under the [MIT license](https://github.com/marcosvaldeni/Fintech-Design-with-React-Native/blob/master/LICENSE).
+This project is under the [MIT license]().
 
 Feito com amor por [Plebeu-Code](https://github.com/Plebeu-code) 💚🚀
 # Orengar-lol
