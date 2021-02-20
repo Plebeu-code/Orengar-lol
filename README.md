@@ -1,5 +1,5 @@
 
-# Fintech Design with React Native
+# Design React Native
 
 > “A educação é a arma mais poderosa que você pode usar para mudar o mundo. ” Nelson Mandela
 
@@ -61,7 +61,7 @@ Para simulador IOS
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [Fintech Design with React Native](https://github.com/Plebeu-code/Orengar-lol) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines]() to find out about the coding standards.
+Feel free to **file a new issue** with a respective title and description on the the [Plebeu Design with React Native](https://github.com/Plebeu-code/Orengar-lol) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines]() to find out about the coding standards.
 
 # :tada: Contributing
 
